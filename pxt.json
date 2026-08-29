@@ -1,1 +1,12 @@
-
+{
+  "name": "microbit-hid-ultimate",
+  "version": "0.0.1",
+  "description": "Ultimate HID extension for micro:bit",
+  "files": [
+    "hid.ts",
+    "shims.d.ts"
+  ],
+  "dependencies": {
+    "core": "*"
+  }
+}
